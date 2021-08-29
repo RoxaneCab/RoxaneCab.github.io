@@ -2,7 +2,7 @@
 
 body {
    background: url('fond_nuage.jpg');
-   background-repeat: no-repeat;
+   background-repeat: repeat-y;
     font-family: Arial, sans-serif;
     color: #181818;
 }
