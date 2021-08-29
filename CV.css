@@ -1,8 +1,8 @@
 /* Eléments principaux de la page */
 
 body {
-   background: url('fond_nuage.jpg');
-   background-repeat: repeat-y;
+   background: url('nuage.png');
+   background-repeat: no-repeat;
     font-family: Arial, sans-serif;
     color: #181818;
 }
